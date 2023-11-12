@@ -1,1 +1,0 @@
-Într-un triunghi dreptunghic, suma pătratelor lungimilor catetelor este egală cu pătratul lungimii ipotenuzei.
